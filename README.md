@@ -1,2 +1,2 @@
-# hello-world
+# First repository
 short and sweet.
